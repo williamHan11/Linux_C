@@ -1,7 +1,7 @@
 # Linux_C
 Linux_C自学笔记
 
-[Link:https://www.bilibili.com/video/BV1GV411r7ug?from=search&seid=8319202048425876204]()
+Link: [https://www.bilibili.com/video/BV1GV411r7ug?from=search&seid=8319202048425876204]()
 
 # 1. Linux介绍
 
